@@ -1,0 +1,1 @@
+Este proyecto es un **framework de automatización de pruebas** en Python que combina **Selenium WebDriver** para pruebas de interfaz de usuario (UI) y **Requests** para pruebas de API. Aplica el patrón **Page Object Model (POM)** para mantener el código organizado y fácil de mantener.
